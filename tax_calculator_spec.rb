@@ -1,3 +1,4 @@
+
 require_relative 'tax_calculator'
 
 describe TaxCalculator do

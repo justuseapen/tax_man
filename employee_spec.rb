@@ -6,5 +6,5 @@ require_relative 'employee'
 
 describe Employee do
 	it "may exist without some data elements" do
-		employee = Employee.new(,"Johnson", )
+		employee = Employee.new(,"Johnson",100000,30000, 38)
 end
